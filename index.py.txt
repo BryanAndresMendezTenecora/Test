@@ -5,6 +5,3 @@ def intermedio():
 	print("Cuerpo")
 
 def adios():
-
-def chau():
-
